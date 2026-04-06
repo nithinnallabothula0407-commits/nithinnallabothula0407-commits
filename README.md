@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Nithin Choudary, a third-year Computer Science undergraduate at the National Institute of Technology Mizoram.
+I am Nithin Choudary, a third-year Computer Science undergraduate at the National Institute of Technology Mizoram seeking a research internship.
 
 I design and build economic predictive models and high-performance applications.
 
