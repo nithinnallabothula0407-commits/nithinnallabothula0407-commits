@@ -7,7 +7,7 @@ I am highly interested in research at the intersection of macroeconomics and mac
 
 My main technical stack includes Python, C++, Flutter, and Kotlin. My favorite tools include Jupyter Notebook, LaTeX, PyTorch, TensorFlow, the MT5 Terminal, and time-series forecasting frameworks.
 
-I have a number of pinned projects, one of my favorites being [Portfolio-Constraint-Engine-FF26A1](https://github.com/nithinnallabothula0407-commits/Portfolio-Constraint-Engine-FF26A1).
+I have a number of pinned projects, one of my favorites being [forex-anomaly-detection](https://github.com/nithinnallabothula0407-commits/forex-anomaly-detection).
  
 
 
