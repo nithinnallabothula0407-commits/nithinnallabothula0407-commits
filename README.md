@@ -3,7 +3,7 @@ I am Nithin Choudary, a third-year Computer Science undergraduate at the Nationa
 
 I design and build economic predictive models and high-performance applications.
 
-I am highly interested in research at the intersection of macroeconomics and machine learning.
+I am highly interested in solving real world tech problems with modern AI and core cs.
 
 My main technical stack includes Python, C++, Flutter, and Kotlin. My favorite tools include Jupyter Notebook, LaTeX, PyTorch, TensorFlow, the MT5 Terminal, and time-series forecasting frameworks.
 
